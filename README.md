@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://github.com/srijan2002">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&theme=light&line_height=27" alt="Srijan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&include_all_commits=true&theme=light&line_height=27" alt="Srijan's github stats"/>
 </a>
  
 
