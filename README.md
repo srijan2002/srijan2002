@@ -1,21 +1,40 @@
-### Hi there 👋
+## Hola, I'm [Srijan!] 👋
 
-<!--
-**srijan2002/srijan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### ![](https://visitor-badge.laobi.icu/badge?page_id=srijan2002.srijan2002)
  
+
+<a href="https://twitter.com/Elite_Raven1159">
+  <img align="left" alt="Srijan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/srijan-majumdar-308b48207">
+  <img align="left" alt="Srijan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/srijan2002">
+  <img align="left" alt="Srijan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Elite_Raven">
+  <img align="left" alt="Srijan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/srijan2002/">
+  <img align="left" alt="Srijan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/srijan.majumdar.7/">
+  <img align="left" alt="Srijan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br/>
+<br/>
+
+
  
+
+
  
-### [![Github](https://img.shields.io/github/followers/srijan2002?label=Follow&style=social)](https://github.com/srijan2002)
+<a href="https://github.com/srijan2002">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/srijan2002">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&theme=light&line_height=27" alt="Srijan's github stats"/>
+</a>
  
- 
- 
-### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&theme=tokyonight)
 
-
-
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&theme=tokyonight)
-
-
-
+</div>
