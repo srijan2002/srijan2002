@@ -8,7 +8,7 @@
 
 <p><b>HTML, CSS, JavaScript, VueJs, C++, Java 😇</b></p>
 
-<p>Has a knack in competetive programming too !</p>
+<p>Has a knack in competitive programming too !</p>
 
 <a href="https://twitter.com/Elite_Raven1159">
   <img align="left" alt="Srijan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
