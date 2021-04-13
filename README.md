@@ -2,11 +2,13 @@
 
  
 
-<p>Hello</p>
+<p>An open source enthusiast !</p>
 
+<p>Currently expanding my grasp in Front-end Tech stacks 😊😊</p>
 
+<p><b>HTML,CSS,JS,VueJs,C++,Java 😇</b></p>
 
-
+<p>Has a knack in competetive programming too !</p>
 
 <a href="https://twitter.com/Elite_Raven1159">
   <img align="left" alt="Srijan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
