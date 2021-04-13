@@ -1,4 +1,4 @@
-## Hola, I'm [Srijan!] 👋
+## Hola, I'm Srijan! 👋
 
  
 
