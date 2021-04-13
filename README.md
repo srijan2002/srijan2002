@@ -35,15 +35,9 @@
 <br/>
 
 
-  
-<a href="https://github.com/srijan2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight&hide_langs_below=1" />
-</a>
+   
 
-<a href="https://github.com/srijan2002">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Srijan's github stats"/>
-</a>
-
+![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&layout=compact&theme=material-palenight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight)
  
 
  
