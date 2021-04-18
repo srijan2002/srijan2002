@@ -10,6 +10,10 @@
 
 <p>Has a knack in competitive programming too !</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srijan2002&color=blueviolet&style=flat">
+</p>
+
 <a href="https://twitter.com/Elite_Raven1159">
   <img align="left" alt="Srijan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
