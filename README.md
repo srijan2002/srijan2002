@@ -44,8 +44,8 @@
 
    
 
-![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&layout=compact&theme=material-palenight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight)
- 
+![Srijan's github stats](https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&layout=compact&theme=material-palenight) ![Top Langs]
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight)
 
  
 
