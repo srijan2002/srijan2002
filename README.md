@@ -45,7 +45,7 @@
   
 <a href="https://github.com/srijan2002/github-readme-stats">
   
-  <img align="center" src="https://github-readme-stats.srijan2002.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight" />
 </a>
 
 
