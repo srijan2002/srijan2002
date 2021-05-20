@@ -6,7 +6,7 @@
 
 <p>Currently expanding my grasp in Front-end Tech stacks 😊😊</p>
 
-<p><b>HTML, CSS, JavaScript, VueJs, C++, Java 😇</b></p>
+<p><b>HTML, CSS, JavaScript, VueJs, Flutter, C++, Java 😇</b></p>
 
 <p>Has a knack in competitive programming too !</p>
 
