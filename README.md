@@ -43,7 +43,7 @@
 
 
   
-<a href="https://github.com/srijan2002/github-readme-stats">
+<a href="https://github.com/srijan2002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&layout=compact&theme=material-palenight" />
 </a>
 
