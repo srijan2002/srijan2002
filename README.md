@@ -29,6 +29,7 @@
 <a href="https://www.facebook.com/srijan.majumdar.7/">
   <img align="left" alt="Srijan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 <a href="https://www.codechef.com/users/srijan_2002">
  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Srijan's Codechef" width="22px" />
 </a>
