@@ -6,7 +6,7 @@
 
 <p>Currently expanding my grasp in Front-end Tech stacks 😊😊</p>
 
-<p><b>HTML, CSS, JavaScript, VueJs, Flutter, C++, Java 😇</b></p>
+<p><b>HTML, CSS, JavaScript, VueJs, Node, Flutter, C++, Java 😇</b></p>
 
 <p>Has a knack in competitive programming too !</p>
 
@@ -43,10 +43,10 @@
 <br/>
 
 
+ 
 <a href="https://github.com/srijan2002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan2002&langs_count=10&theme=material-palenight&hide_langs_below=1"/>
 </a>
-
 <a href="https://github.com/srijan2002">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijan2002&show_icons=true&theme=material-palenight&line_height=27" alt="Srijan's github stats"/>
 </a>
