@@ -34,7 +34,9 @@
  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Srijan's Codechef" width="22px" />
 </a>
 
-
+<a href="https://codeforces.com/profile/srijan_2002">
+ <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Srijan's Codeforces" width="22px" />
+</a>
 
 
 
