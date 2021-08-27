@@ -4,7 +4,7 @@
 
 <p>An open source enthusiast !</p>
 
-<p>Currently expanding my grasp in Front-end Tech stacks 😊😊</p>
+<p>Currently expanding my grasp in Front and Back-end Tech stacks 😊😊</p>
 
 <p><b>HTML, CSS, JavaScript, VueJs, Node, Flutter, C++, Java 😇</b></p>
 
