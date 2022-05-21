@@ -18,6 +18,7 @@
 <a href="https://codeforces.com/profile/srijan_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="srijan_2002" height="30" width="40" /></a>
 </p>
 
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijan2002&theme=material-palenight&show_icons=true&langs_count=10&locale=en&layout=compact" alt="srijan2002" /></p> -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijan2002&theme=material-palenight&show_icons=true&langs_count=10&locale=en&layout=compact" alt="srijan2002" /></p>
 
 <div >
